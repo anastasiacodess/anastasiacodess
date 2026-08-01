@@ -5,7 +5,7 @@
 ![Git](https://img.shields.io/badge/Git-2b2b2b?style=flat&logo=git&logoColor=white)&nbsp;
 ![NLP](https://img.shields.io/badge/NLP-2b2b2b?style=flat)
 
-Information Systems and Technologies student at Kyiv Polytechnic Institute (KPI), Ukraine.
+Information Systems and Technologies student at Kyiv Polytechnic Institute, Ukraine.
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anastasiacodess&theme=github-compact&hide_border=true)
 
