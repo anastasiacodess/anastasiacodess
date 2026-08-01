@@ -13,6 +13,9 @@ Information Systems and Technologies student at Kyiv Polytechnic Institute (KPI)
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=700&color=CCCCCC&center=true&vCenter=true&width=600&lines=Contributing+to+CLTK+%E2%80%94+NLP+for+classical+languages;Applying+ML+to+ancient+Greek+text+analysis;Information+Systems+and+Technologies+%E2%80%94+KPI;Research+intern+%E2%80%94+ICS%2C+Czech+Academy+of+Sciences)
 ![Divider](https://capsule-render.vercel.app/api?type=rect&color=2b2b2b&height=3&section=header)
 
+## Tech Stack
+
+`Python` `PyTorch` `NumPy` `pandas` `scikit-learn` `R` `Arduino`
 
 I contribute to open-source projects supporting ancient Greek language and text research.
 
