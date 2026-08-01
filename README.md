@@ -5,7 +5,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-##Information Systems and Technologies student at Kyiv Polytechnic Institute (KPI), Ukraine.
+Information Systems and Technologies student at Kyiv Polytechnic Institute (KPI), Ukraine.
+
 
 ---
 
