@@ -1,4 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1B4965,50:5C3A21,100:C9A15F&height=150&section=header&text=Anastasiia%20Horyacheva&fontSize=60&fontColor=CCCCCC&animation=fadeIn&fontAlignY=35)
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F1729,50:2b2b2b,100:8B4513&height=150&section=header&text=Anastasiia%20Horyacheva&fontSize=60&fontColor=CCCCCC&animation=fadeIn&fontAlignY=35)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
 ![PyTorch](https://img.shields.io/badge/PyTorch-2b2b2b?style=flat&logo=pytorch&logoColor=white)&nbsp;
 ![Jupyter](https://img.shields.io/badge/Jupyter-2b2b2b?style=flat&logo=jupyter&logoColor=white)&nbsp;
