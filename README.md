@@ -53,3 +53,5 @@ Currently working toward formal study of Ancient Greek and Classics, alongside m
 ## Connect
 
 [LinkedIn](https://linkedin.com/in/anastasiia-horyacheva)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2b1055,50:1a1a2e,100:0d0d1a&height=100&section=footer)
