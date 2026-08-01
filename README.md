@@ -26,7 +26,7 @@ Information Systems and Technologies student at Kyiv Polytechnic Institute, Ukra
 
 
 
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=anastasiacodess&show_icons=true&theme=dark&hide_border=true)![Streak](https://streak-stats.demolab.com?user=anastasiacodess&theme=dark&hide_border=true)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=anastasiacodess&show_icons=true&theme=dark&hide_border=true)
 
 
 
