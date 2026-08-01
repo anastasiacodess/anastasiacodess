@@ -10,7 +10,7 @@ Information Systems and Technologies student at Kyiv Polytechnic Institute, Ukra
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anastasiacodess&theme=github-compact&hide_border=true)
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=700&color=CCCCCC&center=true&vCenter=true&width=600&lines=Contributing+to+CLTK+%E2%80%94+NLP+for+classical+languages;Applying+ML+to+ancient+Greek+text+analysis;Information+Systems+and+Technologies+%E2%80%94+KPI;Research+intern+%E2%80%94+ICS%2C+Czech+Academy+of+Sciences)
+<!--![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=700&color=CCCCCC&center=true&vCenter=true&width=600&lines=Contributing+to+CLTK+%E2%80%94+NLP+for+classical+languages;Applying+ML+to+ancient+Greek+text+analysis;Information+Systems+and+Technologies+%E2%80%94+KPI;Research+intern+%E2%80%94+ICS%2C+Czech+Academy+of+Sciences)-->
 
 ## Currently
 - Contributing to [CLTK](https://github.com/cltk/cltk), an open-source NLP library for classical languages
