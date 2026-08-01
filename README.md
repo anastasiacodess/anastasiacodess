@@ -12,6 +12,8 @@ Information Systems and Technologies student at Kyiv Polytechnic Institute (KPI)
 
 [![Skills](https://skillicons.dev/icons?i=py,pytorch,git,jupyter&theme=dark)](https://skillicons.dev)
 
+![Streak](https://streak-stats.demolab.com?user=anastasiacodess&theme=dark&hide_border=true)
+
 
 ---
 
