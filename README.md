@@ -7,10 +7,11 @@
 ![Git](https://img.shields.io/badge/Git-2b2b2b?style=flat&logo=git&logoColor=white)&nbsp;
 ![R](https://img.shields.io/badge/R-2b2b2b?style=flat&logo=r&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-2b2b2b?style=flat&logo=python&logoColor=white)
+
+
 
  
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
 ![PyTorch](https://img.shields.io/badge/PyTorch-2b2b2b?style=flat&logo=pytorch&logoColor=white)&nbsp;
 ![Jupyter](https://img.shields.io/badge/Jupyter-2b2b2b?style=flat&logo=jupyter&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-2b2b2b?style=flat&logo=git&logoColor=white)&nbsp;
