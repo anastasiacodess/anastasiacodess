@@ -3,6 +3,9 @@
 Information Systems and Technologies student at Kyiv Polytechnic Institute (KPI), Ukraine.
 
 
+<table><tr><td>
+
+
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
@@ -21,6 +24,9 @@ Information Systems and Technologies student at Kyiv Polytechnic Institute (KPI)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
+
+
+</td></tr></table>
 
 
 ---
