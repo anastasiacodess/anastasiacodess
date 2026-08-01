@@ -14,7 +14,6 @@ Information Systems and Technologies student at Kyiv Polytechnic Institute (KPI)
 ![Divider](https://capsule-render.vercel.app/api?type=rect&color=2b2b2b&height=3&section=header)
 
 ## Currently
-
 - Contributing to [CLTK](https://github.com/cltk/cltk), an open-source NLP library for classical languages
 - Following the [Vesuvius Challenge](https://scrollprize.org/), applying computer vision to unread Herculaneum scrolls
 - Preparing for formal Ancient Greek study
