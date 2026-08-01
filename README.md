@@ -12,6 +12,8 @@ Information Systems and Technologies student at Kyiv Polytechnic Institute (KPI)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anastasiacodess&theme=github-compact&hide_border=true)
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anastasiacodess&theme=github-compact&hide_border=true)
+
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=CCCCCC&center=true&vCenter=true&width=500&lines=Building+tools+for+ancient+Greek+NLP;Contributing+to+CLTK;Learning+Ancient+Greek)
 
