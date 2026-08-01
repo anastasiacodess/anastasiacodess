@@ -6,8 +6,6 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:4a2c2a,100:8B4513&height=150&section=header&text=Anastasiia%20Horyacheva&fontSize=60&fontColor=CCCCCC&animation=fadeIn&fontAlignY=35)
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:e8998d&height=150&section=header&text=Anastasiia%20Horyacheva&fontSize=60&fontColor=CCCCCC&animation=fadeIn&fontAlignY=35)
-
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:4a2c2a,100:8B4513&height=150&section=header&text=Anastasiia%20Horyacheva&fontSize=60&fontColor=CCCCCC&animation=fadeIn&fontAlignY=35)
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:14142b,50:5c4a3a,100:c9a876&height=150&section=header&text=Anastasiia%20Horyacheva&fontSize=60&fontColor=CCCCCC&animation=fadeIn&fontAlignY=35)
