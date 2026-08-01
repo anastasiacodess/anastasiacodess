@@ -8,8 +8,6 @@
 
 Information Systems and Technologies student at Kyiv Polytechnic Institute (KPI), Ukraine.
 
-![Snake](https://raw.githubusercontent.com/anastasiacodess/anastasiacodess/output/github-contribution-grid-snake-dark.svg)
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anastasiacodess&theme=github-compact&hide_border=true)
 
 
