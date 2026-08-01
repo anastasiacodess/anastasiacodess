@@ -8,6 +8,8 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:e8998d&height=150&section=header&text=Anastasiia%20Horyacheva&fontSize=60&fontColor=CCCCCC&animation=fadeIn&fontAlignY=35)
 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2b1055,50:1a1a2e,100:0d0d1a&height=150&section=header&text=Anastasiia%20Horyacheva&fontSize=60&fontColor=CCCCCC&animation=fadeIn&fontAlignY=35)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
 ![PyTorch](https://img.shields.io/badge/PyTorch-2b2b2b?style=flat&logo=pytorch&logoColor=white)&nbsp;
 ![Jupyter](https://img.shields.io/badge/Jupyter-2b2b2b?style=flat&logo=jupyter&logoColor=white)&nbsp;
