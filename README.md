@@ -1,7 +1,15 @@
 # Anastasiia Horyacheva
 
+![Python](https://img.shields.io/badge/Python-2b2b2b?style=flat&logo=python&logoColor=white)&nbsp;
+![PyTorch](https://img.shields.io/badge/PyTorch-2b2b2b?style=flat&logo=pytorch&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-2b2b2b?style=flat&logo=node.js&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/Git-2b2b2b?style=flat&logo=git&logoColor=white)
+
+h
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)&nbsp;
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
