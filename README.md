@@ -9,6 +9,8 @@
 
 Information Systems and Technologies student at Kyiv Polytechnic Institute (KPI), Ukraine.
 
+![Views](https://komarev.com/ghpvc/?username=anastasiacodess&color=2b2b2b&style=flat&label=Profile+Views)
+
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=CCCCCC&center=true&vCenter=true&width=500&lines=Building+tools+for+ancient+Greek+NLP;Contributing+to+CLTK;Learning+Ancient+Greek)
 
