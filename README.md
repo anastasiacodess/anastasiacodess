@@ -6,6 +6,8 @@
 ![Git](https://img.shields.io/badge/Git-2b2b2b?style=flat&logo=git&logoColor=white)&nbsp;
 ![NLP](https://img.shields.io/badge/NLP-2b2b2b?style=flat)
 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=2b2b2b&height=150&section=header&text=Anastasiia%20Horyacheva&fontSize=40&fontColor=CCCCCC&animation=fadeIn)
+
 
 Information Systems and Technologies student at Kyiv Polytechnic Institute (KPI), Ukraine.
 
