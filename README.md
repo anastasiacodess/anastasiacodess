@@ -15,6 +15,8 @@ Information Systems and Technologies student at Kyiv Polytechnic Institute (KPI)
 
 I contribute to open-source projects supporting ancient Greek language and text research, including the Classical Language Toolkit (CLTK).
 
+![Stats](https://github-readme-stats.vercel.app/api?username=anastasiacodess&show_icons=true&theme=dark&hide_border=true)
+
 Currently working toward formal study of Ancient Greek and Classics, alongside my technical coursework.
 
 ## Currently
