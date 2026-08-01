@@ -31,12 +31,7 @@ I contribute to open-source projects supporting ancient Greek language and text 
 
 
 
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=anastasiacodess&show_icons=true&theme=dark&hide_border=true)
-
-
-
-
-![Streak](https://streak-stats.demolab.com?user=anastasiacodess&theme=dark&hide_border=true)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=anastasiacodess&show_icons=true&theme=dark&hide_border=true)![Streak](https://streak-stats.demolab.com?user=anastasiacodess&theme=dark&hide_border=true)
 
 
 
