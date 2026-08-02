@@ -21,7 +21,7 @@ Information Systems and Technologies student at Kyiv Polytechnic Institute, Ukra
 
 ## GitHub Activity
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anastasiacodess&theme=github-compact&hide_border=true)
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=anastasiacodess&show_icons=true&theme=dark&hide_border=true)
+<!--![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=anastasiacodess&show_icons=true&theme=dark&hide_border=true)-->
 
 
 ## Tech Stack
