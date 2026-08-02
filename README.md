@@ -20,9 +20,8 @@ Information Systems and Technologies student at Kyiv Polytechnic Institute, Ukra
 - Built a 1D CNN signal classifier in PyTorch (74% accuracy) — [uart_classifier](https://github.com/anastasiacodess/uart_classifier)
 
 ## GitHub Activity
-[Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anastasiacodess&theme=github-compact&hide_border=true)
-[Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=anastasiacodess&show_icons=true&theme=dark&hide_border=true)
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anastasiacodess&theme=github-compact&hide_border=true)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=anastasiacodess&show_icons=true&theme=dark&hide_border=true)
 
 
 ## Tech Stack
